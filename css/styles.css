@@ -1,0 +1,25 @@
+.div-top {
+  background-color: #E4F9F5;
+  margin: 0;
+  }
+
+.div-mid {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.div-bot {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+
+body{
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
