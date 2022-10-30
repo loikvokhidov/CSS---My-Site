@@ -1,15 +1,15 @@
-.div-top {
+.container-top {
   background-color: #E4F9F5;
   margin: 0;
   }
 
-.div-mid {
-  background-color: rgb(179, 85, 85);
+.container-mid {
+  background-color: red;
   height: 200px;
   width: 200px;
 }
 
-.div-bot {
+.container-bot {
   background-color: blue;
   height: 200px;
   width: 200px;
@@ -22,4 +22,8 @@ body{
 
 h1 {
   margin: 0;
+}
+
+.developer{
+  text-decoration: underline;
 }
