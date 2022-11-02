@@ -1,29 +1,50 @@
-.container-top {
-  background-color: #E4F9F5;
+body {
+  text-align: center;
   margin: 0;
-  }
-
-.container-mid {
-  background-color: red;
-  height: 200px;
-  width: 200px;
-}
-
-.container-bot {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
-}
-
-
-body{
-  margin: 0;
+  font-family: "Merriweather", serif;
 }
 
 h1 {
-  margin: 0;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: "Sacramento", cursive;
 }
 
-.developer{
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container-top {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.container-mid {
+
+}
+
+.container-bot {
+ 
+}
+
+.developer {
   text-decoration: underline;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.cloud-top {
+  position: absolute;
+  top: 50px;
+  right: 300px;
 }
